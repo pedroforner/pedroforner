@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Pedro forner
+15 anos
+CCM Santos Dumont
 <!--
 **pedroforner/pedroforner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
